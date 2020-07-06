@@ -1,0 +1,13 @@
+C:\Users\pclov\source\repos\HF_DP\DuckSimulator\bin\Debug\netcoreapp3.1\DuckSimulator.exe
+C:\Users\pclov\source\repos\HF_DP\DuckSimulator\bin\Debug\netcoreapp3.1\DuckSimulator.deps.json
+C:\Users\pclov\source\repos\HF_DP\DuckSimulator\bin\Debug\netcoreapp3.1\DuckSimulator.runtimeconfig.json
+C:\Users\pclov\source\repos\HF_DP\DuckSimulator\bin\Debug\netcoreapp3.1\DuckSimulator.runtimeconfig.dev.json
+C:\Users\pclov\source\repos\HF_DP\DuckSimulator\bin\Debug\netcoreapp3.1\DuckSimulator.dll
+C:\Users\pclov\source\repos\HF_DP\DuckSimulator\bin\Debug\netcoreapp3.1\DuckSimulator.pdb
+C:\Users\pclov\source\repos\HF_DP\DuckSimulator\obj\Debug\netcoreapp3.1\DuckSimulator.csprojAssemblyReference.cache
+C:\Users\pclov\source\repos\HF_DP\DuckSimulator\obj\Debug\netcoreapp3.1\DuckSimulator.csproj.CoreCompileInputs.cache
+C:\Users\pclov\source\repos\HF_DP\DuckSimulator\obj\Debug\netcoreapp3.1\DuckSimulator.AssemblyInfoInputs.cache
+C:\Users\pclov\source\repos\HF_DP\DuckSimulator\obj\Debug\netcoreapp3.1\DuckSimulator.AssemblyInfo.cs
+C:\Users\pclov\source\repos\HF_DP\DuckSimulator\obj\Debug\netcoreapp3.1\DuckSimulator.dll
+C:\Users\pclov\source\repos\HF_DP\DuckSimulator\obj\Debug\netcoreapp3.1\DuckSimulator.pdb
+C:\Users\pclov\source\repos\HF_DP\DuckSimulator\obj\Debug\netcoreapp3.1\DuckSimulator.genruntimeconfig.cache
